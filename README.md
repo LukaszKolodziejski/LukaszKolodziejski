@@ -1,5 +1,5 @@
 > ## :trophy: All_Projects_in_one_Place :trophy:
->> ### A Table of Contents for all my Major Projects. :surfer:
+>> ### A Table of Contents for all my Major Projects. 
 
 ---
 
