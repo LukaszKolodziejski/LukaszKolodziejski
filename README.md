@@ -22,7 +22,7 @@
 > #### [2.09. ML_React-Router-2](https://github.com/LukaszKolodziejski/ML_React-Router-2)
 > #### [2.10. ML_node-express-mongodb_1](https://github.com/LukaszKolodziejski/ML_node-express-mongodb_1)
 ---
-> ### XS_  < Small or Another Projects 
+> ### S_  < Small or Another Projects 
 > #### :white_check_mark: [3.1. S_Move-Baloon__React.js](https://github.com/LukaszKolodziejski/S_Move-Baloon__React.js)
 > #### :white_check_mark: [3.2. S_AJAX-Fetch-person](https://github.com/LukaszKolodziejski/S_AJAX-Fetch-person)
 > #### :white_check_mark:[3.3. S_Sliding-Slider](https://github.com/LukaszKolodziejski/S_Sliding-Slider)
