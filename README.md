@@ -11,8 +11,8 @@
 > #### :star2: :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
 ---
 > ### ML_  < Medium-Large  Projects 
-> #### :stars: :stars: :stars:  [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
-> ####  :stars: :stars: :stars: [2.02. ML_Constellation-in-the-Night-Sky](https://github.com/LukaszKolodziejski/ML_Constellation-in-the-Night-Sky)
+> #### :star: :stars:   [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
+> ####  :star:  :stars: [2.02. ML_Constellation-in-the-Night-Sky](https://github.com/LukaszKolodziejski/ML_Constellation-in-the-Night-Sky)
 > ####  :stars: :stars: [2.03. ML_Guess-a-Number__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/ML_Guess-a-Number__React-Native)
 > ####  :stars: :stars:[2.04. ML_Millionaire-Game_with_Express.js](https://github.com/LukaszKolodziejski/ML_Millionaire-Game_with_Express.js)
 > #### [2.05. M-React_Redux_Redux-Thunk](https://github.com/LukaszKolodziejski/M-React_Redux_Redux-Thunk)
