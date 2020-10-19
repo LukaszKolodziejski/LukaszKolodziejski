@@ -15,12 +15,12 @@
 > ####  :star:  :stars: [2.02. ML_Constellation-in-the-Night-Sky](https://github.com/LukaszKolodziejski/ML_Constellation-in-the-Night-Sky)
 > ####  :stars: :stars: [2.03. ML_Guess-a-Number__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/ML_Guess-a-Number__React-Native)
 > ####  :stars: :stars:[2.04. ML_Millionaire-Game_with_Express.js](https://github.com/LukaszKolodziejski/ML_Millionaire-Game_with_Express.js)
-> #### [2.05. M-React_Redux_Redux-Thunk](https://github.com/LukaszKolodziejski/M-React_Redux_Redux-Thunk)
-> #### [2.06. M_Global-Weather-App--React.js](https://github.com/LukaszKolodziejski/M_Global-Weather-App--React.js)
-> #### [2.07. M_Multi-Scroller](https://github.com/LukaszKolodziejski/M_Multi-Scroller)
-> #### [2.08. M_responsiveness](https://github.com/LukaszKolodziejski/M_responsiveness)
-> #### [2.09. ML_React-Router-2](https://github.com/LukaszKolodziejski/ML_React-Router-2)
-> #### [2.10. ML_node-express-mongodb_1](https://github.com/LukaszKolodziejski/ML_node-express-mongodb_1)
+> #### :stars: :stars: [2.05. M-React_Redux_Redux-Thunk](https://github.com/LukaszKolodziejski/M-React_Redux_Redux-Thunk)
+> #### :stars: :stars: [2.06. M_Global-Weather-App--React.js](https://github.com/LukaszKolodziejski/M_Global-Weather-App--React.js)
+> #### :stars: [2.07. M_Multi-Scroller](https://github.com/LukaszKolodziejski/M_Multi-Scroller)
+> #### :stars: [2.08. M_responsiveness](https://github.com/LukaszKolodziejski/M_responsiveness)
+> #### :stars: [2.09. ML_React-Router-2](https://github.com/LukaszKolodziejski/ML_React-Router-2)
+> #### :stars: [2.10. ML_node-express-mongodb_1](https://github.com/LukaszKolodziejski/ML_node-express-mongodb_1)
 ---
 > ### S_  < Small or Another Projects 
 > #### :white_check_mark: [3.1. S_Move-Baloon__React.js](https://github.com/LukaszKolodziejski/S_Move-Baloon__React.js)
