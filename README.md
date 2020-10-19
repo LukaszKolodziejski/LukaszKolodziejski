@@ -1,4 +1,4 @@
-> ##  All_Projects_in_one_Place :two: :four:
+> ##  All Projects in one Place :two: :four:
 >> ### A Table of Contents for all my Major Projects. 
 ---
 > ### XXXL_ < Huge and The Best Projects -> :seven:
