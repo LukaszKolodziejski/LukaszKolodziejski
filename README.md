@@ -1,5 +1,5 @@
-> ##  All_Projects_in_one_Place -> (24)
->> ### A Table of Contents for all my Major Projects. 
+> ##  All_Projects_in_one_Place
+>> ### A Table of Contents for all my Major Projects. -> (24)
 ---
 > ### XXXL_ < Huge and The Best Projects -> (7)
 > #### :fire: :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://react-build-burger-project.web.app/)
