@@ -3,15 +3,13 @@
 
 ---
 
-> ##### :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://react-build-burger-project.web.app/)
-> ##### [1.2. XXXL_Global-News-1](https://github.com/LukaszKolodziejski/XXXL_Global-News-1)
-> ##### [1.3. XXXL_Managing-Global-Servers-1](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-1)
-> ##### [1.4. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
-
-
-> #### [1.5. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
-> #### [1.6. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
-> #### [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
+> #### :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://react-build-burger-project.web.app/)
+> #### :fire: :fire: :fire: [1.2. XXXL_Global-News-1](https://github.com/LukaszKolodziejski/XXXL_Global-News-1)
+> #### :fire: :fire: :fire: [1.3. XXXL_Managing-Global-Servers-1](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-1)
+> #### :star: :star: :star: [1.4. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
+> #### :star: :star: :star:[1.5. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
+> #### :star: :star: [1.6. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
+> #### :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
 ---
 > #### [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
 > #### [2.02. ML_Constellation-in-the-Night-Sky](https://github.com/LukaszKolodziejski/ML_Constellation-in-the-Night-Sky)
