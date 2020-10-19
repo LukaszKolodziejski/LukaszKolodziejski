@@ -9,7 +9,7 @@
 > #### :star: :star: :star: [1.4. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
 > #### :star: :star: :star:[1.5. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
 > #### :star: :star: [1.6. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
-> #### :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
+> #### :star2: :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
 ---
 > #### [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
 > #### [2.02. ML_Constellation-in-the-Night-Sky](https://github.com/LukaszKolodziejski/ML_Constellation-in-the-Night-Sky)
