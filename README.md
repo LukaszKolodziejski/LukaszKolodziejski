@@ -9,7 +9,7 @@
 > #### :star: :star: :star:[1.5. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
 > #### :star: :star: [1.6. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
 > #### :star2: :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
-> #### :star2: :star2: :star2: [1.8. XXXL_Embedded_C_STM32-Microcontroller__Web_React_App << Remote lighting control / Web App / Encoder / RGB LED](https://github.com/LukaszKolodziejski/XXXL_Embedded_C_STM32-Microcontroller__Web_React_App)
+> #### :star2: :star2: :star2: [1.8. XXXL_Embedded_C_STM32-Microcontroller__Web_React_App << Remote lighting control / Web App / Encoder / LED](https://github.com/LukaszKolodziejski/XXXL_Embedded_C_STM32-Microcontroller__Web_React_App)
 ---
 > ### ML_  < Medium-Large  Projects -> :one: :zero:
 > #### :star: :stars:   [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
