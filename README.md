@@ -1,7 +1,7 @@
-> ##  All Projects in one Place :two: :five:
+> ##  All Projects in one Place :two: :six:
 >> ### A Table of Contents for all my Major Projects. 
 ---
-> ### XXXL_ < Huge and The Best Projects -> :eight:
+> ### XXXL_ < Huge and The Best Projects -> :nine:
 > #### :fire: :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 > #### :fire: :fire: :fire: :fire: [1.2. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
 > #### :fire: :fire: :fire: :fire: [1.3. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
@@ -10,6 +10,7 @@
 > #### :star: :star: :star: [1.6. XXXL_Global-News-1](https://github.com/LukaszKolodziejski/XXXL_Global-News-1)
 > #### :star: :star: :star: [1.7. XXXL_Managing-Global-Servers-1](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-1)
 > #### :star: :star: [1.8. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
+> #### :star: :star: [1.9. XL_apdc-1-account-management](https://github.com/LukaszKolodziejski/XL_apdc-1-account-management)
 ---
 > ### ML_  < Medium-Large  Projects -> :one: :zero:
 > #### :star: :stars:   [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
