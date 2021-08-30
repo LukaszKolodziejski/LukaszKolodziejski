@@ -1,7 +1,7 @@
 > ##  All Projects in one Place :two: :seven:
 >> ### A Table of Contents for all my Major Projects. 
 ---
-> ### XXXL_ < Huge and The Best Projects -> :ten:
+> ### XXXL_ < Huge and The Best Projects -> :one: :zero:
 > #### :fire: :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 > #### :fire: :fire: :fire: :fire: [1.2. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
 > #### :fire: :fire: :fire: :fire: [1.3. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
