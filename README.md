@@ -1,17 +1,22 @@
-> ##  All Projects in one Place :two: :seven:
+> ##  All Projects in one Place  :three: :two:
 >> ### A Table of Contents for all my Major Projects. 
 ---
-> ### XXXL_ < Huge and The Best Projects -> :one: :zero:
-> #### :fire: :fire: :fire: :fire: :fire: [1.1. XXXXL_Make-and-Order-Hamburger](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
-> #### :fire: :fire: :fire: :fire: [1.2. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
-> #### :fire: :fire: :fire: :fire: [1.3. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
-> #### :star2: :star2: :star2: [1.4. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
-> #### :star2: :star2: :star2: [1.5. XXXL_Embedded_C_STM32-Microcontroller__Web_React_App << Remote lighting control with a regulator / Web App / Encoder / RGB LED](https://github.com/LukaszKolodziejski/XXXL_Embedded_C_STM32-Microcontroller__Web_React_App)
-> #### :star: :star: :star: [1.6. XXXL_Mobile-Shop-App <<< Mobile App](https://github.com/LukaszKolodziejski/XXXL_Mobile-Shop-App)
-> #### :star: :star: :star: [1.7. XXXL_Global-News-1](https://github.com/LukaszKolodziejski/XXXL_Global-News-1)
-> #### :star: :star: :star: [1.8. XXXL_Managing-Global-Servers-1](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-1)
-> #### :star: :star: [1.9. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
-> #### :star: [1.10. XL_apdc-1-account-management](https://github.com/LukaszKolodziejski/XL_apdc-1-account-management)
+> ### XXXL_ < Huge and The Best Projects -> :one: :five:  
+> #### fire: :fire: :fire: :fire: :fire: :star2: :star2: :star2: [1.1. XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp ](https://github.com/LukaszKolodziejski/XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp)
+> #### :fire: :fire: :fire: :fire: :fire: [1.2. XXXXL_Make-and-Order-Hamburger](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+> #### :fire: :fire: :fire: :fire: :star2: [1.3. XXXXL_APDC_Cloud-task-localization-platform-for-volunteers %](https://github.com/LukaszKolodziejski/XXL_Collaborative-Media-Wall)
+> #### :fire: :fire: :fire: :fire: [1.4. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
+> #### :fire: :fire: :fire: :star2: [1.5. XXL_Collaborative-Media-Wall %](https://github.com/LukaszKolodziejski/XXXXL_APDC_Cloud-task-localization-platform-for-volunteers)
+> #### :fire: :fire: :fire: :fire: [1.6. XXXL_Managing-Global-Servers-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-2)
+> #### :star2: :star2: :star2: [1.7. XXL_Angry-Birds-1.0](https://github.com/LukaszKolodziejski/XXL_Angry-Birds-1.0)
+> #### :star2: :star2: :star2: [1.8. XXXL_Embedded_C_STM32-Microcontroller__Web_React_App << Remote lighting control with a regulator / Web App / Encoder / RGB LED](https://github.com/LukaszKolodziejski/XXXL_Embedded_C_STM32-Microcontroller__Web_React_App)
+> #### :star: :star: :star: [1.9. XXXL_Mobile-Shop-App <<< Mobile App %](https://github.com/LukaszKolodziejski/XXXL_Mobile-Shop-App)
+> #### :star: :star: :star: [1.10. XXXL_FullStack_Shop-React-NodeJs %](https://github.com/LukaszKolodziejski/XXXL_FullStack_Shop-React-NodeJs)
+> #### :star: :star: :star: [1.11. XXL_Mobile_App-Camera-and-Maps-Location <<< Mobile App %](https://github.com/LukaszKolodziejski/XXL_Mobile_App-Camera-and-Maps-Location)
+> #### :star: :star: :star: [1.12. XXXL_Global-News-1](https://github.com/LukaszKolodziejski/XXXL_Global-News-1)
+> #### :star: :star: :star: [1.13. XXXL_Managing-Global-Servers-1](https://github.com/LukaszKolodziejski/XXXL_Managing-Global-Servers-1)
+> #### :star: :star: [1.14. XXL_TheMeals__React-Native <<< Mobile App](https://github.com/LukaszKolodziejski/XXL_TheMeals__React-Native)
+> #### :star: [1.15. XL_apdc-1-account-management %](https://github.com/LukaszKolodziejski/XL_apdc-1-account-management)
 ---
 > ### ML_  < Medium-Large  Projects -> :one: :zero:
 > #### :star: :stars:   [2.01. ML-RobotAndMachineWrite](https://github.com/LukaszKolodziejski/ML-RobotAndMachineWrite)
@@ -33,9 +38,3 @@
 > #### :white_check_mark: [3.5. S_Flexbox-page](https://github.com/LukaszKolodziejski/S_Flexbox-page)
 > #### :white_check_mark: [3.6. S_SunRise-Animation--GSAP](https://github.com/LukaszKolodziejski/S_SunRise-Animation--GSAP)
 > #### :white_check_mark: [3.7. S_CSS-Grid](https://github.com/LukaszKolodziejski/S_CSS-Grid)
-
-
-
-
-
-
