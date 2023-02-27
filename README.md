@@ -2,8 +2,8 @@
 >> ### A Table of Contents for all my Major Projects. 
 ---
 > ### XXXL_ < Huge and The Best Projects -> 1️⃣ 6️⃣  
-> #### :fire: :fire: :fire: :fire: :fire: :fire: :fire: :star2: :star2: [1.0. XXXXL_Lukkoli_Template_NX-apps-libs](https://github.com/LukaszKolodziejski/XXXXL_Lukkoli_Template_NX-apps-libs)
-> #### :fire: :fire: :fire: :fire: :fire: :fire: :star2: :star2: [1.1. XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp ](https://github.com/LukaszKolodziejski/XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp)
+> #### :fire: :fire: :fire: :fire: :fire: :fire: :fire: :star2: :star2: [1.1. XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp ](https://github.com/LukaszKolodziejski/XXXXL_IoT-Digital-Inclinometer_RaspberryPi_WebApp)
+> #### :fire: :fire: :fire: :fire: :fire: :fire: :star2: :star2: [1.0. XXXXL_Lukkoli_Template_NX-apps-libs](https://github.com/LukaszKolodziejski/XXXXL_Lukkoli_Template_NX-apps-libs)
 > #### :fire: :fire: :fire: :fire: :fire: [1.2. XXXXL_Make-and-Order-Hamburger](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 > #### :fire: :fire: :fire: :fire: :star2: [1.3. XXXXL_APDC_Cloud-task-localization-platform-for-volunteers %](https://github.com/LukaszKolodziejski/XXL_Collaborative-Media-Wall)
 > #### :fire: :fire: :fire: :fire: [1.4. XXXL_Global-News-2 [ NEW Technologies !!! ]](https://github.com/LukaszKolodziejski/XXXL_Global-News-2)
